@@ -1,0 +1,13 @@
+# Rust build output
+target/
+**/target/
+
+# Local compiled artifacts
+*.exe
+*.pdb
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
